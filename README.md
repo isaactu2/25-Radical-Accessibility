@@ -1,4 +1,4 @@
-# Accessible Design Scripts Repository  
+# 25-Radical-Accessibility Scripts Repository  
 **Grasshopper + Python Toolkit for Architectural Accessibility**
 
 This repository serves as an open-source collection of **parametric design scripts** and **computational workflows** focused on improving accessibility in architectural design studios.  
