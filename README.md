@@ -15,7 +15,7 @@ These tools are built to help designers:
 - Share design logic transparently for iteration and critique  
 - Encourage collaborative design learning between studios and disciplines  
 
-While the **Three-Rectangle Gable House Prototypes** are the current focus, the repository is meant to grow into a **hub for accessibility-driven design scripts** for future projects.
+While initiating the  iterative processes for **Three-Rectangle Gable House Prototypes**, the repository is meant to grow into a **hub for accessibility-driven design scripts** for future projects.
 
 ---
 
